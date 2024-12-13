@@ -2,11 +2,11 @@
    "notificacoes": [
         {
             "id": 1,
-            "tipoNotificacao": "EMAIL",
+            "tipoNotificacao": "Email",
             "mensagem": "Sua ordem de serviço #101 foi concluída com sucesso!",
             "dataRegistro": "2024-11-20T14:30:00",
-            "statusMsg": "ENVIADA",
-            "prioridade": "ALTA",
+            "statusMsg": "Enviado",
+            "prioridade": "Alta",
             "idOrdemServico": 1,
             "idUsuario": 2
           },
@@ -15,18 +15,18 @@
             "tipoNotificacao": "SMS",
             "mensagem": "A ordem de serviço #102 está atrasada. Por favor, verifique.",
             "dataRegistro": "2024-11-21T10:15:00",
-            "statusMsg": "PENDENTE",
-            "prioridade": "ALTA",
+            "statusMsg": "Pendente",
+            "prioridade": "Alta",
             "idOrdemServico": 2,
             "idUsuario": 3
           },
           {
             "id": 3,
-            "tipoNotificacao": "WHATSAPP",
+            "tipoNotificacao": "Whatsapp",
             "mensagem": "Nova atualização: sua ordem de serviço #103 está em andamento.",
             "dataRegistro": "2024-11-21T16:45:00",
-            "statusMsg": "ENVIADA",
-            "prioridade": "MEDIA",
+            "statusMsg": "Enviado",
+            "prioridade": "Média",
             "idOrdemServico": 3,
             "idUsuario": 4
           }
