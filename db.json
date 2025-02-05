@@ -8,7 +8,7 @@
             "statusMsg": "Enviado",
             "prioridade": "Alta",
             "idOrdemServico": 1,
-            "idUsuario": 2
+            "usuarioId": 2
           },
           {
             "id": 2,
@@ -18,7 +18,7 @@
             "statusMsg": "Pendente",
             "prioridade": "Alta",
             "idOrdemServico": 2,
-            "idUsuario": 3
+            "usuarioId": 3
           },
           {
             "id": 3,
@@ -28,7 +28,7 @@
             "statusMsg": "Enviado",
             "prioridade": "Média",
             "idOrdemServico": 3,
-            "idUsuario": 4
+            "usuarioId": 4
           }
     ]
 }
